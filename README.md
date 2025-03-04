@@ -2,7 +2,7 @@
 
 ## Repo Setup
 
-* Folder Credit_Risk - `lending_data.csv` and `credit_risk_classification.ipynb`
+* Folder Credit_Risk - Data source `lending_data.csv`,  Code `credit_risk_classification.ipynb`,  Images `dti_loan_size.png`, `lr_cm.png` and `rf_cm.png`
 
 ## Imports Used
 
